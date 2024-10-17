@@ -1,5 +1,6 @@
-import 'package:counter/Coffee%20Shop/page_2.dart';
-import 'package:counter/Coffee%20Shop/page_3.dart';
+
+import 'package:counter/Tasks/Coffee%20Shop/page_2.dart';
+import 'package:counter/Tasks/Coffee%20Shop/page_3.dart';
 import 'package:flutter/material.dart';
 
 class Coffee_1 extends StatefulWidget {

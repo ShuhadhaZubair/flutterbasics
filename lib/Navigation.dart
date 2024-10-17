@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'Task02/FirstPage.dart';
-import 'Task02/LoginPage.dart';
-import 'Task02/SigninPage.dart';
+import 'Tasks/Task02/FirstPage.dart';
+import 'Tasks/Task02/LoginPage.dart';
+import 'Tasks/Task02/SigninPage.dart';
+
+
 
 class MyNavigationBar extends StatefulWidget {
   MyNavigationBar({Key? key}) : super(key: key);
