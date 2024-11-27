@@ -111,7 +111,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home:AlertDialogExample()),
+        home:Coffee_1()),
       designSize: Size(360,640 ),
 
     );
