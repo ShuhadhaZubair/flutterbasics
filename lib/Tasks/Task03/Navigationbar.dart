@@ -1,6 +1,5 @@
 
-import 'package:counter/Task03/Page1.dart';
-import 'package:counter/Task03/body.dart';
+
 import 'package:flutter/material.dart';
 
 import 'Page2.dart';
@@ -18,7 +17,8 @@ class _MyNavigationState extends State<MyNavigation> {
   int _selectedIndex = 0;
 
   static const List<dynamic> _widgetOptions = [
-    Task03_body(),Task03_Page1(),Task3_page2(),
+
+    Task3_page2(),
   ];
 
   void _onItemTapped(int index) {
